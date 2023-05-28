@@ -1,0 +1,32 @@
+"clients": {
+    "97f81a5a-f9af-4754-aa4d-e2b06d986b72": {
+      "name": "pilarsen_kz_1",
+      "address": "10.10.10.2",
+      "privateKey": "iDPKblV7shHitTZig+SFWeEETwCDEgQSDb8oWggCGnU=",
+      "publicKey": "6uneBEtNIvK4IOfblifVSasOmb3kjZW/XnrrH1sf+W0=",
+      "preSharedKey": "iG8gmDPXgs2gRJWVlyVgB5TlfE45RaIDuXW+ASIbvjk=",
+      "createdAt": "2023-04-28T21:31:40.835Z",
+      "updatedAt": "2023-04-28T21:31:40.835Z",
+      "enabled": true
+    },
+    "93b7fd40-daba-4cca-8ad3-3e3605719c6d": {
+      "name": "root",
+      "address": "10.10.10.3",
+      "privateKey": "YBKSrjSIhehVIEOI9L3GoauJZmW+Qm6dq/QRZjXW0G8=",
+      "publicKey": "kmZkofEKC71XLtGBTK1WrV/fyR8XV0GRAnZEvR58UwI=",
+      "preSharedKey": "sMF5CZTV1IA0d10c9sQeFTf+JHNdpUToTbIsnVYuDvI=",
+      "createdAt": "2023-04-28T21:31:49.944Z",
+      "updatedAt": "2023-04-28T21:31:49.944Z",
+      "enabled": true
+    },
+    "c79389d9-e1e0-46a1-9d52-350e00bc430a": {
+      "name": "JLVN_res_1",
+      "address": "10.10.10.4",
+      "privateKey": "yOJLrwduThVV7WT/BkSZJrxOVjTMkS/ZwzQh7KxUGnM=",
+      "publicKey": "O7Nqqhg+7CFrtwiOWGgGDTYhvZ3vQyF5McAS+8Q7PyU=",
+      "preSharedKey": "iVDw0lalQwrMpkWSbF+M6dKl4vtpXyZMXk9qp7MfOlo=",
+      "createdAt": "2023-04-29T07:38:54.316Z",
+      "updatedAt": "2023-04-29T07:38:54.316Z",
+      "enabled": true
+    }
+  }
